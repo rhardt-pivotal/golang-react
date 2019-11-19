@@ -1,0 +1,2 @@
+go:
+  targets: ["./cmd/golang-react"]
