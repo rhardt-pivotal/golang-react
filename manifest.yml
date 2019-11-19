@@ -1,0 +1,5 @@
+---
+applications:
+  - name: robgo
+    env:
+      GO_INSTALL_PACKAGE_SPEC: hardt.io/peek-que-es/cmd/golang-react
